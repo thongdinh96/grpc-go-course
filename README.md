@@ -1,7 +1,7 @@
 # setup env
 - Cài golang: https://golang.org/dl/
 - Cài protocol buffer: https://github.com/google/protobuf/releases --> Giải nén vào C:\proto3
-- Setup biến môi trường cho protocol buffer --> Thêm C:\proto3\bin và PATH system variables
+- Setup biến môi trường cho protocol buffer --> Thêm C:\proto3\bin vào PATH system variables
 
 # setup dependencies
 - Cài gRPC-Go: go get -u google.golang.org/grpc
